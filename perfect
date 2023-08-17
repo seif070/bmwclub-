@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="stylesheet" href="style.css"/>
+<link
+rel="shortcut icon"
+href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpixabay.com%2Fillustrations%2Flogo-css-css3-icon-2582747%2F&psig=AOvVaw32mr1yHBYx6Fl0YGv9SEL9&ust=1692356958115000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJj9v5TH44ADFQAAAAAdAAAAABAE"
+type="image/x-icon"
+/>
+
+
+<title>Introduction to CSS</title>
+</head>
+<body>
+<header>
+    <div class="navmenu">
+        <img
+        src="file:///C:/Users/Ghada%20Tebessi/Documents/perfect/logo-2582747_1280.webp"
+        alt="logo-css"
+        class="logo-css"
+        />
+        <ul class="666-links">
+<ul class="666-links">
+    <li><a href="#">home</a>
+    </li>
+    <li><a href="#">about</a>
+    </li>
+    <li><a href="#">projects</a>
+    </li>
+    <li><a href="#">contact</a>
+    </li>
+    </ul>
+</div>
+</header>
+<main id="main">
+    <section class="about-section">
+<div>
+    <h1>
+         <span class="css-span">CSS</span>?<br />
+        
+    </h1>
+    <button class="watchvideo-btn">Watch video</button>
+</div>
+<iframe
+width="727"
+height="409"
+src="https://www.youtube.com/embed/6vbgZnQrpbU"
+frameborder="0"
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen
+></iframe>
+    </section>
+    <section class="projects-section">
+        <div class="projects">
+            <img
+            src="one-ten-one-hundred-series-2d339f485ef516fe44defed3eb881e85.jpg"
+
+            
+            style="width: 360px; height: 208, 69px"
+            />
+            <h3>Project 1</h3>
+            <p> <br />
+                <br />
+            
+            </p>
+  <a href="#"></a><br />
+        </div>
+        <div class="project">
+            <img
+src="one-ten-one-hundred-series-2d339f485ef516fe44defed3eb881e85.jpg"
+
+style="width: 360px; height: 208, 69px"
+/>
+
+<h3>Project 2</h3>
+<p>
+    <p>
+        Explore how budgetary constraints affect <br />
+        creativity–for better or worse–in our Webby <br />
+        Award-winning original series.
+      </p>
+      <a href="#"> Explore & learn</a>
+
+    
+
+        </div>
+        <div class="project">
+            <img
+            src="one-ten-one-hundred-series-2d339f485ef516fe44defed3eb881e85.jpg"
+            style="width: 360px; height: 208, 69px"
+            />
+            <h3>project 3</h3>
+            <p>
+                Explore how budgetary constraints affect <br />
+                creativity–for better or worse–in our Webby <br />
+                Award-winning original series.
+            </p>
+            <a href="#"> Explore & learn more</a><br />
+
+                
+            
+        </div>
+        <div class="project">
+            <img
+            src="one-ten-one-hundred-series-2d339f485ef516fe44defed3eb881e85.jpg"
+            style="width: 360px; height: 208, 69px"
+            />
+            <h3>project 4</h3>
+        
+            <p>
+                Explore how budgetary constraints affect <br />
+            creativity–for better or worse–in our Webby <br />
+            Award-winning original series.
+          </p><a href="#"> Explore & learn more</a><br />
+      
+
+
+        </div>
+        <div class="project project-5">
+            <img
+src="one-ten-one-hundred-series-2d339f485ef516fe44defed3eb881e85.jpg" 
+style="width: 360px; height: 208, 69px"
+
+
+
+
+
+/>
+<h3>project 5</h3>
+<p>
+    Explore how budgetary constraints affect <br />
+
+    creativity–for better or worse–in our Webby <br />
+</p>
+<a href="#"> Explore & learn more</a><br />
+
+
+
+</div>
+
+<div class="project">
+    <img
+    src="one-ten-one-hundred-series-2d339f485ef516fe44defed3eb881e85.jpg
+    "
+style="width:  360px;" height="208", 69px
+/>
+<h3>project 6</h3>
+<p>
+    Explore how budgetary constraints affect <br />
+    creativity–for better or worse–in our Webby <br />
+    Award-winning original series.
+  </p>
+  <a href="#"> Explore & learn more</a><br />
+</div>
+    </section>
+</main>
+
+
+
+
+
+
+
+
+
+<footer>
+<div>
+    <p class="footer-message">
+        We’ve updated our
+<a href="#"><span>Terms of Service</span></a>.
+    </p>
+</div>
+</footer>
+
+</html>
+
+
+
+
